@@ -11,7 +11,7 @@ class Singleton {
         }
         return instance;
     } 
-    public static void doSomething(){
+    public void doSomething(){
         System.out.println("Something is done");
     }   
 }

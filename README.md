@@ -37,4 +37,4 @@ This project covers the following design patterns:
 
 ## Project Structure
 
-The project is organized by pattern type, with each pattern residing in its own package.  For example, the Abstract Factory Pattern implementation can be found in the `Abstract Factory` directory.
+The project is organized by pattern type, with each pattern residing in its own package.  For example, the Abstract Factory Pattern implementation can be found in the `Creational Patterns/Abstract Factory` directory.
